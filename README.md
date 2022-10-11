@@ -9,10 +9,10 @@ Hours: 4
 Credit: ...
 ECTS: ...
 ************************************
-Language of Instruction: English
-Course Status: Compulsory
-Course Level: Bachelor
-Learning and Teaching Techniques of the Course: Lecture, Discussion, Question-Answer, Coding Practices
+- Language of Instruction: English
+- Course Status: Compulsory
+- Course Level: Bachelor
+- Learning and Teaching Techniques of the Course: Lecture, Discussion, Question-Answer, Coding Practices
 ************************************
 Course Objectives: The main objective of this course is to provide an introduction for basic data structures, and algorithms. We use JAVA programming language. 
 Objectives:
