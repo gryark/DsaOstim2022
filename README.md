@@ -15,7 +15,7 @@ ECTS: ...
 - Learning and Teaching Techniques of the Course: Lecture, Discussion, Question-Answer, Coding Practices
 ************************************
 Course Objectives: The main objective of this course is to provide an introduction for basic data structures, and algorithms. We use JAVA programming language. 
-Objectives:
+* Objectives:
 - Fundamental design, analysis, and implementation of basic data structures and algorithms
 - Analysis and evaluation of the data structure needs of particular problems
 - Design, analysis, and implementation of JAVA programs by using basic data structures and algorithms
@@ -54,10 +54,10 @@ Textbook(s)/References/Materials:
 
 ************************************
 Assessment:
-Continuity is important
-Quizzes / Homeworks: 5 times % 20
-Midterm Exam: 1 time % 40
-Final Exam : 1 time % 40
+- Continuity is important
+- Quizzes / Homeworks: 5 times % 20
+- Midterm Exam: 1 time % 40
+- Final Exam : 1 time % 40
 
 
 
