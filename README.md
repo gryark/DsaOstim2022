@@ -1,4 +1,5 @@
 # DsaOstim2022
+# COURSE SYLLABUS FORM
 Data Structures and Algorithms (DSA) Class - Ostim Technical University 2022 for MIS 231
 ************************************
 Course Name: Data Structures and Algorithms
