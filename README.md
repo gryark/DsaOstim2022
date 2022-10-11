@@ -3,12 +3,12 @@
 # Instructor: Dr. Güray ARIK
 Data Structures and Algorithms (DSA) Class - Ostim Technical University 2022 for MIS 231
 ************************************
-Course Name: Data Structures and Algorithms
-Course Code: MIS 231 
-Period: 1
-Hours: 4
-Credit: ...
-ECTS: ...
+- Course Name: Data Structures and Algorithms
+- Course Code: MIS 231 
+- Period: 1
+- Hours: 4
+- Credit: ...
+- ECTS: ...
 ************************************
 - Language of Instruction: English
 - Course Status: Compulsory
