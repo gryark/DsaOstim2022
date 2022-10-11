@@ -52,7 +52,7 @@ Textbook(s)/References/Materials:
 2. Sedgewick, R., & Wayne, K. (2014). Algorithms: Fourth Edition. Addison-Wesley Professional. (Exercise Book)
 3. Eclipse IDE 2022‑09,  https://www.eclipse.org/downloads/ (Main IDE)
 4. IntelliJ IDEA, Community Free Version, https://www.jetbrains.com/idea/download/ (Alternative IDE)
-5. Laptop (if you have, not a must)
+5. Laptop (if you have. it's not a must)
 
 ************************************
 Assessment:
