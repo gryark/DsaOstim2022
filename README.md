@@ -1,3 +1,5 @@
+![index](https://user-images.githubusercontent.com/65946879/195103814-98083c1c-f870-4dba-8d65-f742516245cb.png
+
 # DsaOstim2022
 # COURSE SYLLABUS FORM
 # Instructor: Dr. Güray ARIK
