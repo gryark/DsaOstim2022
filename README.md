@@ -51,7 +51,8 @@ Textbook(s)/References/Materials:
 1. Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2014). Data structures and algorithms in Java (Sixth Edition). John Wiley & Sons. (Main Book)
 2. Sedgewick, R., & Wayne, K. (2014). Algorithms: Fourth Edition. Addison-Wesley Professional. (Exercise Book)
 3. Eclipse IDE 2022‑09,  https://www.eclipse.org/downloads/ (Main IDE)
-4. IntelliJ IDEA, Community Free Version, https://www.jetbrains.com/idea/download/ (Alternative IDE), 
+4. IntelliJ IDEA, Community Free Version, https://www.jetbrains.com/idea/download/ (Alternative IDE)
+5. Laptop (if you have, not a must)
 
 ************************************
 Assessment:
