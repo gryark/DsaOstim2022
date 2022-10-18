@@ -41,9 +41,9 @@ Data Structures and Algorithms in Java provides an introduction to data structur
 - Week 9 Trees: General Trees, Binary Search Trees, Tree Traversal Algorithms
 - Week 10 Trees: General Trees, Binary Search Trees, Tree Traversal Algorithms
 - Week 11 Hashing: Maps and HashTables
-- Week 12 Sorting and Searching Algorithms: Merge-Sort, Quick-Sort
+- Week 12 Graphs: Graph Algorithms, Graph Traversals
 - Week 13 Sorting and Searching Algorithms: Merge-Sort, Quick-Sort
-- Week 14 Graphs: Graph Algorithms, Graph Traversals
+- Week 14 Sorting and Searching Algorithms: Merge-Sort, Quick-Sort
 - Week 15 Review for Final Exam
 - Week 16 Final Exam
 ************************************
