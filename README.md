@@ -57,9 +57,9 @@ Textbook(s)/References/Materials:
 ************************************
 Assessment:
 - Continuity is important
-- Quizzes / Homeworks: 5 times % 20
+- Quizzes / Homeworks: 5 times % 10
 - Midterm Exam: 1 time % 40
-- Final Exam : 1 time % 40
+- Final Exam : 1 time % 50
 
 
 
